@@ -17,9 +17,9 @@ With **Magento 2 PDF Catalog Print** you can manage design and generate catalogs
 
 ## More features & Demo
 
-- Extension Details : https://www.magetop.com/magento-2-pdf-catalog-print-extension.html
-- Category Print Demo : https://projects.magetop.com/demo/women/bottoms-women/pants-women.html
-- Product Print Demo : https://projects.magetop.com/demo/typhon-performance-fleece-lined-jacket.html
+- Extension details : https://www.magetop.com/magento-2-pdf-catalog-print-extension.html
+- Frontend demo : https://livedemo.magetop.com/pdfcatalogprint/men/tops-men/tees-men.html
+- Backend demo : https://livedemo.magetop.com/pdfcatalogprint/admin
 
 ## Support & Contact info
 
