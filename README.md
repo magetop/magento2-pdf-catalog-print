@@ -1,4 +1,4 @@
-# Magento 2 PDF Catalog Print Extension by MageTop
+# Magento 2 PDF Catalog Print Extension by Magetop
 
 With **Magento 2 PDF Catalog Print** you can manage design and generate catalogs without use of any external tools. This gives flexibility to you as well as your customer to save or print product catalog without involving any third-party tools. Support HTML tags.
 
@@ -15,7 +15,7 @@ With **Magento 2 PDF Catalog Print** you can manage design and generate catalogs
 - Unlimited colors & options.
 - And many more feature ...
 
-## More features & Demo
+## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-pdf-catalog-print-extension.html
 - Frontend demo : https://livedemo.magetop.com/pdfcatalogprint/men/tops-men/tees-men.html
